@@ -2,14 +2,28 @@
 
 WIP
 
-Window Manager: openbox
-panel: polybar
+Window Manager:
+panel:
 Application Launcher:
 Desktop Notification:
 Terminal Emulator:
 Shell:
 Compositor:
-File Manager: thunar
-Media Player: mpv
-Music Player: ncmpcpp
-GUI (Basic) IDE
+File Manager:
+Media Player:
+Music Player: 
+GUI (Basic)
+
+https://arewewaylandyet.com/
+
+```
+firmware-linux mesa-utils
+```
+
+```
+sway waybar xwayland alsa-utils pulseaudio wofi
+
+htop neofetch
+
+fonts-font-awesome
+```
