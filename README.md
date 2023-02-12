@@ -2,17 +2,18 @@
 
 WIP
 
-Window Manager:
-panel:
-Application Launcher:
-Desktop Notification:
-Terminal Emulator:
-Shell:
-Compositor:
-File Manager:
-Media Player:
-Music Player: 
-GUI (Basic)
+- Window Manager: sway
+- panel: waybar
+- Application Launcher: wofi
+- Desktop Notification:
+- Terminal Emulator: foot
+- Shell: bash
+- Compositor:
+- File Manager: 
+- text editor: ghostwriter
+- Media Player: mpv
+- Music Player: 
+- GUI (Basic)
 
 https://arewewaylandyet.com/
 
